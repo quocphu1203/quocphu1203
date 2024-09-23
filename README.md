@@ -1,10 +1,6 @@
 <h1 align="center">
   <img src="hello.svg" alt="Konnichiha" />
 </h1>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<p align="center">
-  <a href="https://github.com/wako1203"><img src="banner2.jpg" alt="Banner"></a>
-</p>
 
 
 ## 🌐Contact me
