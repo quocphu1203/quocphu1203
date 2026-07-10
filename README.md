@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hello.svg" alt="Konnichiha" width="600" />
+</p>
+
 # ⚡ Hi there, I'm Quốc Phú! 👋
 
 <p align="center">
@@ -82,7 +86,7 @@
 <table border="0" align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=quocphu1203&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Quốc Phú's GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=quocphu1203&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Quốc Phú's GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=quocphu1203&theme=tokyonight&hide_border=false" width="100%" alt="Quốc Phú's GitHub Streak" />
@@ -90,7 +94,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2" style="padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocphu1203&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Quốc Phú's Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quocphu1203&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Quốc Phú's Top Languages" />
     </td>
   </tr>
 </table>
@@ -110,8 +114,7 @@
 <br/>
 
 <div align="right">
-  <span>Profile Views: </span>
-  <img src="https://visitcount.itsvg.in/api?id=quocphu1203&label=Views&color=6&icon=5&pretty=true" alt="Visitor Count" align="middle" />
+  <img src="https://komarev.com/ghpvc/?username=quocphu1203&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Visitor Count" align="middle" />
 </div>
 
 
