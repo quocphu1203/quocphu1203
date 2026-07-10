@@ -51,7 +51,7 @@ I am a passionate **Software Engineer** specializing in **Web & Mobile App Devel
     </td>
     <td valign="top" width="50%">
       <h3>⚙️ Backend & Databases</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel,java,kotlin,cpp,mysql,postgres,mssql,firebase" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,py,php,laravel,java,kotlin,cpp,mysql,postgres,mssql,firebase" alt="Backend Skills" />
     </td>
   </tr>
   <tr>
