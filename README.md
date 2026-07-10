@@ -5,7 +5,7 @@
 # ⚡ Hi there, I'm Quốc Phú! 👋
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ShfPQb9ByO0AAAAC/suzume.gif" alt="Quốc Phú's Banner" width="100%" style="border-radius: 8px;" />
+  <img src="suzume.gif" alt="Quốc Phú's Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
