@@ -1,39 +1,119 @@
-<h1 align="center">
-  <img src="hello.svg" alt="Konnichiha" />
-</h1>
+# ⚡ Hi there, I'm Quốc Phú! 👋
 
+<p align="center">
+  <img src="banner.jpg" alt="Quốc Phú's Banner" width="100%" style="border-radius: 8px;" />
+</p>
 
-## 🌐Contact me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wako.12.k) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/QuocPhuu) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wako_ph.p/)
+<p align="center">
+  <strong>Software Engineer | Web Developer | Mobile App Developer</strong>
+</p>
 
-# 💻Learned
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=quocphu1203&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=quocphu1203&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quocphu1203&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.facebook.com/wako.12.k" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/QuocPhuu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/wako_ph.p/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:wako.12.k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=quocphu1203&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=quocphu1203&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=quocphu1203&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+## 🚀 About Me
+
+- 🔭 **Current Focus:** Developing responsive, high-performance web applications and cross-platform mobile apps.
+- 🌱 **Learning & Up-skilling:** Deep diving into advanced React Native concepts, Laravel optimization, and system design.
+- 💬 **Ask me about:** PHP, Laravel, Java, Kotlin, React Native, SQL databases, and clean code practices.
+- ⚡ **Fun fact:** I love designing modern user interfaces and turning complex problems into simple, beautiful, and intuitive solutions.
+
+---
+
+## 💻 Tech Stack & Tools
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🌐 Frontend Development</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend & Databases</h3>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <br/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2" style="padding-top: 15px;">
+      <h3>🛠️ DevOps, Tools & Utilities</h3>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=quocphu1203&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Quốc Phú's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=quocphu1203&theme=tokyonight&hide_border=false" width="100%" alt="Quốc Phú's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocphu1203&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Quốc Phú's Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<details>
+  <summary>✨ <strong>Click to expand / collapse trophies list</strong></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-trophies.vercel.app/?username=quocphu1203&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </p>
+</details>
+
+<br/>
+
+<div align="right">
+  <span>Profile Views: </span>
+  <img src="https://visitcount.itsvg.in/api?id=quocphu1203&label=Views&color=6&icon=5&pretty=true" alt="Visitor Count" align="middle" />
+</div>
+
 
 
 
